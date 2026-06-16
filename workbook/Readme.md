@@ -1,3 +1,6 @@
+# Example workbook
+These are some sample workbook using AWS Braket and Pennylane for various quantum algorithms and techniques. The purpose of this is to show the Braket SDK vs Qiskt SDK when developing algorithms. Most of these algorithms should be portable to Qiskit and can be run using IBM Quantum Systems.
+
 ## Quantum Generative AI - Learning a 4-Quart Ising Spin Chain
 
 ## Quantum Graph Neural Network - Time-Series Anomaly Detection
